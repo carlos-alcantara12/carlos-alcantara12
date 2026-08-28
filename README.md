@@ -15,6 +15,10 @@ My current studies focus on **C through university coursework** and on consolida
 
 ## Current repositories
 
+### [Password Policy Checker](https://github.com/carlos-alcantara12/password-policy-checker)
+
+My first individual Python project. It evaluates a basic password policy through terminal and Streamlit interfaces, provides recommendations, and includes automated tests. The project is educational and does not store passwords.
+
 ### [C Fundamentals](https://github.com/carlos-alcantara12/c-fundamentos)
 
 Examples and selected exercises from my current C programming classes. The repository reflects the topics I have already studied and will grow with my degree.
@@ -30,7 +34,7 @@ I separate my work into two categories:
 - **fundamentals repositories**, used to document concepts and selected exercises;
 - **individual project repositories**, reserved for applications with their own requirements, structure, documentation, and development history.
 
-This profile currently represents the fundamentals stage of that progression.
+This profile currently combines my fundamentals with my first individual project.
 
 ## Technical direction
 
