@@ -1,42 +1,46 @@
 # Carlos Eduardo M. Alcântara
 
-**Estudante de Engenharia da Computação na Universidade do Estado do Amazonas (UEA) · 2º período**
+[English](README.md) · [Português](README.pt-BR.md)
 
-Tenho interesse na área de **desenvolvimento web**, com foco em aprender a construir aplicações que resolvam problemas reais. Estou desenvolvendo minha base em programação e aplicando meus estudos em projetos de sistemas de gestão, explorando interfaces, APIs, bancos de dados e regras de negócio.
+**Computer Engineering student at Universidade do Estado do Amazonas (UEA) · Second semester**
 
-## Projetos em destaque
+I am interested in **web development** and learning to build applications that solve real problems. I am strengthening my programming fundamentals through management software projects, exploring user interfaces, APIs, databases, and business logic.
+
+## Featured projects
 
 ### [GymInsight](https://github.com/carlos-alcantara12/gyminsight)
-Sistema de gestão de academias com organização de unidades, alunos, planos, matrículas, registros de presença e controle financeiro.
 
-- Gestão de uma rede de academias e controle de acesso por unidade.
-- Acompanhamento de mensalidades, pagamentos e situação financeira dos alunos.
-- Relatórios de frequência, faturamento e histórico de operações.
-- **Tecnologias:** Python, Django e Django REST Framework.
+A gym management system for branches, members, membership plans, enrollments, attendance, and finances.
+
+- Branch management and access rules.
+- Membership billing, payment records, and outstanding balances.
+- Attendance and revenue reports, with an audit history.
+- **Built with:** Python, Django, and Django REST Framework.
 
 ### [ServiceFlow](https://github.com/carlos-alcantara12/service_flow)
-Projeto em desenvolvimento para gestão de ordens de serviço em assistências técnicas e oficinas, desde o recebimento do equipamento até a entrega.
 
-- Cadastro de clientes e equipamentos.
-- Organização de diagnósticos, orçamentos, aprovações e etapas do serviço.
-- Modelagem de pagamentos, estornos e histórico de alterações.
-- Regras de negócio organizadas em serviços e representação de dados com serializers.
-- **Tecnologias:** Python, Django e Django REST Framework.
+A web application under development for repair shops and maintenance businesses, tracking service orders from equipment intake to delivery.
 
-## Estudos e interesses
+- Customer and equipment records.
+- Diagnosis, versioned estimates, approvals, and repair workflows.
+- Payments, refunds, and change history.
+- Business logic organized into services, with serializers for API data.
+- **Built with:** Python, Django, Django REST Framework, HTML, CSS, and JavaScript.
 
-- **Desenvolvimento web:** HTML, CSS e JavaScript para interfaces; Python e Django para backend.
-- **APIs e bancos de dados:** integração entre interfaces e servidor, modelagem e organização dos dados.
-- **Fundamentos de programação:** lógica, estruturas de dados e prática com C e Python.
-- **Git e GitHub:** versionamento, documentação e evolução dos projetos.
+## Learning and interests
 
-## Formação
+- **Web development:** HTML, CSS, and JavaScript for interfaces; Python and Django for backend development.
+- **APIs and databases:** frontend integration, data modeling, and data organization.
+- **Programming fundamentals:** logic, data structures, and practice with C and Python.
+- **Git and GitHub:** version control, documentation, and project development.
 
-**Engenharia da Computação — Universidade do Estado do Amazonas (UEA)**  
-Cursando o **2º período**.
+## Education
 
-## Registro de aprendizado
+**Computer Engineering — Universidade do Estado do Amazonas (UEA)**  
+Currently in my **second semester**.
 
-Além dos projetos de gestão, mantenho o repositório [Python Fundamentals](https://github.com/carlos-alcantara12/python-fundamentos) como registro de exercícios, conceitos e aplicações de prática.
+## Learning repository
 
-Meu objetivo é evoluir como desenvolvedor web, aprofundando os fundamentos e construindo projetos com organização, clareza e utilidade.
+[Python Fundamentals](https://github.com/carlos-alcantara12/python-fundamentos) documents my exercises, concepts, and small practice applications.
+
+My goal is to grow as a web developer by building useful projects and improving my foundations.
