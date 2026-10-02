@@ -1,43 +1,42 @@
 # Carlos Eduardo M. Alcântara
 
-**Computer Engineering student at UEA | C and Python fundamentals**
+**Estudante de Engenharia da Computação na Universidade do Estado do Amazonas (UEA) · 2º período**
 
-I am building my programming foundation while preparing for my first internship opportunity in technology.
+Tenho interesse na área de **desenvolvimento web**, com foco em aprender a construir aplicações que resolvam problemas reais. Estou desenvolvendo minha base em programação e aplicando meus estudos em projetos de sistemas de gestão, explorando interfaces, APIs, bancos de dados e regras de negócio.
 
-My current studies focus on **C through university coursework** and on consolidating the **Python fundamentals** I studied previously. Cybersecurity is my long-term professional direction, especially systems security and offensive security, but my present priority is learning how to design and understand software correctly.
+## Projetos em destaque
 
-## Current learning
+### [GymInsight](https://github.com/carlos-alcantara12/gyminsight)
+Sistema de gestão de academias com organização de unidades, alunos, planos, matrículas, registros de presença e controle financeiro.
 
-- C: program structure, input and output, conditionals, `switch`, and loops;
-- Python: programming logic, collections, functions, validation, and exception handling;
-- Git and GitHub: version control and documentation of my learning process;
-- Computer Engineering fundamentals.
+- Gestão de uma rede de academias e controle de acesso por unidade.
+- Acompanhamento de mensalidades, pagamentos e situação financeira dos alunos.
+- Relatórios de frequência, faturamento e histórico de operações.
+- **Tecnologias:** Python, Django e Django REST Framework.
 
-## Current repositories
+### [ServiceFlow](https://github.com/carlos-alcantara12/service_flow)
+Projeto em desenvolvimento para gestão de ordens de serviço em assistências técnicas e oficinas, desde o recebimento do equipamento até a entrega.
 
-### [Password Policy Checker](https://github.com/carlos-alcantara12/password-policy-checker)
+- Cadastro de clientes e equipamentos.
+- Organização de diagnósticos, orçamentos, aprovações e etapas do serviço.
+- Modelagem de pagamentos, estornos e histórico de alterações.
+- Regras de negócio organizadas em serviços e representação de dados com serializers.
+- **Tecnologias:** Python, Django e Django REST Framework.
 
-My first individual Python project. It evaluates a basic password policy through terminal and Streamlit interfaces, provides recommendations, and includes automated tests. The project is educational and does not store passwords.
+## Estudos e interesses
 
-### [C Fundamentals](https://github.com/carlos-alcantara12/c-fundamentos)
+- **Desenvolvimento web:** HTML, CSS e JavaScript para interfaces; Python e Django para backend.
+- **APIs e bancos de dados:** integração entre interfaces e servidor, modelagem e organização dos dados.
+- **Fundamentos de programação:** lógica, estruturas de dados e prática com C e Python.
+- **Git e GitHub:** versionamento, documentação e evolução dos projetos.
 
-Examples and selected exercises from my current C programming classes. The repository reflects the topics I have already studied and will grow with my degree.
+## Formação
 
-### [Python Fundamentals](https://github.com/carlos-alcantara12/python-fundamentos)
+**Engenharia da Computação — Universidade do Estado do Amazonas (UEA)**  
+Cursando o **2º período**.
 
-A structured record of lessons, exercises, and small practice applications developed while learning the foundations of Python.
+## Registro de aprendizado
 
-## Portfolio approach
+Além dos projetos de gestão, mantenho o repositório [Python Fundamentals](https://github.com/carlos-alcantara12/python-fundamentos) como registro de exercícios, conceitos e aplicações de prática.
 
-I separate my work into two categories:
-
-- **fundamentals repositories**, used to document concepts and selected exercises;
-- **individual project repositories**, reserved for applications with their own requirements, structure, documentation, and development history.
-
-This profile currently combines my fundamentals with my first individual project.
-
-## Technical direction
-
-`Programming fundamentals (current)` → `Systems` → `Networks` → `Cybersecurity` → `Pentesting`
-
-I will add technologies and security projects as my public work begins to demonstrate them.
+Meu objetivo é evoluir como desenvolvedor web, aprofundando os fundamentos e construindo projetos com organização, clareza e utilidade.
