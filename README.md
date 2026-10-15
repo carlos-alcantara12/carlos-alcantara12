@@ -2,45 +2,49 @@
 
 [English](README.md) · [Português](README.pt-BR.md)
 
-**Computer Engineering student at Universidade do Estado do Amazonas (UEA) · Second semester**
+**Computer Engineering student at Universidade do Estado do Amazonas (UEA) · 2nd semester**
 
-I am interested in **web development** and learning to build applications that solve real problems. I am strengthening my programming fundamentals through management software projects, exploring user interfaces, APIs, databases, and business logic.
+I am a Computer Engineering student with a strong interest in **web development**. I enjoy building practical applications, learning how software systems work, and turning ideas into useful solutions.
 
-## Featured projects
+## About me
 
-### [GymInsight](https://github.com/carlos-alcantara12/gyminsight)
+- 🎓 Computer Engineering at **UEA — Universidade do Estado do Amazonas**
+- 📚 Currently in my **2nd semester**
+- 💻 Interested in **web development** and software engineering
+- 🚀 Learning by building real-world projects
+- 🧩 Interested in frontend, backend, APIs, databases, and application architecture
 
-A gym management system for branches, members, membership plans, enrollments, attendance, and finances.
+## Projects
 
-- Branch management and access rules.
-- Membership billing, payment records, and outstanding balances.
-- Attendance and revenue reports, with an audit history.
-- **Built with:** Python, Django, and Django REST Framework.
+### 🔧 ServiceFlow — In progress
 
-### [ServiceFlow](https://github.com/carlos-alcantara12/service_flow)
+A web application for managing service orders, designed for technical assistance businesses and repair shops. The project covers the workflow from equipment intake and diagnosis to budgeting, approval, repair, payment, and delivery.
 
-A web application under development for repair shops and maintenance businesses, tracking service orders from equipment intake to delivery.
+**Stack:** Python · Django · Django REST Framework · HTML · CSS · JavaScript
 
-- Customer and equipment records.
-- Diagnosis, versioned estimates, approvals, and repair workflows.
-- Payments, refunds, and change history.
-- Business logic organized into services, with serializers for API data.
-- **Built with:** Python, Django, Django REST Framework, HTML, CSS, and JavaScript.
+[View repository →](https://github.com/carlos-alcantara12/service_flow)
 
-## Learning and interests
+### 📚 Mybooks — In progress
 
-- **Web development:** HTML, CSS, and JavaScript for interfaces; Python and Django for backend development.
-- **APIs and databases:** frontend integration, data modeling, and data organization.
-- **Programming fundamentals:** logic, data structures, and practice with C and Python.
-- **Git and GitHub:** version control, documentation, and project development.
+A project focused on managing books and related information, currently under development as part of my learning journey in web development and backend development.
+
+[View repository →](https://github.com/carlos-alcantara12/mybooks)
+
+## Tech & interests
+
+**Languages & technologies**  
+Python · C · JavaScript · HTML · CSS · Django · Django REST Framework
+
+**Areas of interest**  
+Web Development · Backend Development · APIs · Databases · Software Architecture · Frontend Development
 
 ## Education
 
-**Computer Engineering — Universidade do Estado do Amazonas (UEA)**  
-Currently in my **second semester**.
+**Computer Engineering**  
+Universidade do Estado do Amazonas (UEA) · **2nd semester**
 
-## Learning repository
+## Currently learning
 
-[Python Fundamentals](https://github.com/carlos-alcantara12/python-fundamentos) documents my exercises, concepts, and small practice applications.
+I am continuously improving my programming fundamentals while building projects that allow me to practice software design, APIs, databases, frontend development, and real-world business logic.
 
-My goal is to grow as a web developer by building useful projects and improving my foundations.
+> Building, learning, and improving — one project at a time.
