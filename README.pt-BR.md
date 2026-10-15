@@ -4,41 +4,47 @@
 
 **Estudante de Engenharia da Computação na Universidade do Estado do Amazonas (UEA) · 2º período**
 
-Tenho interesse na área de **desenvolvimento web**, com foco em aprender a construir aplicações que resolvam problemas reais. Estou desenvolvendo minha base em programação e aplicando meus estudos em projetos de sistemas de gestão, explorando interfaces, APIs, bancos de dados e regras de negócio.
+Sou estudante de Engenharia da Computação com grande interesse em **desenvolvimento web**. Gosto de construir aplicações práticas, entender como os sistemas de software funcionam e transformar ideias em soluções úteis.
 
-## Projetos em destaque
+## Sobre mim
 
-### [GymInsight](https://github.com/carlos-alcantara12/gyminsight)
-Sistema de gestão de academias com organização de unidades, alunos, planos, matrículas, registros de presença e controle financeiro.
+- 🎓 Engenharia da Computação na **UEA — Universidade do Estado do Amazonas**
+- 📚 Atualmente no **2º período**
+- 💻 Interesse em **desenvolvimento web** e engenharia de software
+- 🚀 Aprendizado baseado na construção de projetos reais
+- 🧩 Interesse em frontend, backend, APIs, bancos de dados e arquitetura de aplicações
 
-- Gestão de uma rede de academias e controle de acesso por unidade.
-- Acompanhamento de mensalidades, pagamentos e situação financeira dos alunos.
-- Relatórios de frequência, faturamento e histórico de operações.
-- **Tecnologias:** Python, Django e Django REST Framework.
+## Projetos
 
-### [ServiceFlow](https://github.com/carlos-alcantara12/service_flow)
-Projeto em desenvolvimento para gestão de ordens de serviço em assistências técnicas e oficinas, desde o recebimento do equipamento até a entrega.
+### 🔧 ServiceFlow — Em andamento
 
-- Cadastro de clientes e equipamentos.
-- Organização de diagnósticos, orçamentos, aprovações e etapas do serviço.
-- Modelagem de pagamentos, estornos e histórico de alterações.
-- Regras de negócio organizadas em serviços e representação de dados com serializers.
-- **Tecnologias:** Python, Django e Django REST Framework.
+Aplicação web para gerenciamento de ordens de serviço, desenvolvida para assistências técnicas e oficinas. O projeto contempla o fluxo desde o recebimento e diagnóstico do equipamento até orçamento, aprovação, execução do serviço, pagamento e entrega.
 
-## Estudos e interesses
+**Stack:** Python · Django · Django REST Framework · HTML · CSS · JavaScript
 
-- **Desenvolvimento web:** HTML, CSS e JavaScript para interfaces; Python e Django para backend.
-- **APIs e bancos de dados:** integração entre interfaces e servidor, modelagem e organização dos dados.
-- **Fundamentos de programação:** lógica, estruturas de dados e prática com C e Python.
-- **Git e GitHub:** versionamento, documentação e evolução dos projetos.
+[Ver repositório →](https://github.com/carlos-alcantara12/service_flow)
+
+### 📚 Mybooks — Em andamento
+
+Projeto voltado ao gerenciamento de livros e informações relacionadas, atualmente em desenvolvimento como parte da minha jornada de aprendizado em desenvolvimento web e backend.
+
+[Ver repositório →](https://github.com/carlos-alcantara12/mybooks)
+
+## Tecnologias e interesses
+
+**Linguagens e tecnologias**  
+Python · C · JavaScript · HTML · CSS · Django · Django REST Framework
+
+**Áreas de interesse**  
+Desenvolvimento Web · Backend · APIs · Bancos de Dados · Arquitetura de Software · Desenvolvimento Frontend
 
 ## Formação
 
-**Engenharia da Computação — Universidade do Estado do Amazonas (UEA)**  
-Cursando o **2º período**.
+**Engenharia da Computação**  
+Universidade do Estado do Amazonas (UEA) · **2º período**
 
-## Registro de aprendizado
+## Atualmente aprendendo
 
-Além dos projetos de gestão, mantenho o repositório [Python Fundamentals](https://github.com/carlos-alcantara12/python-fundamentos) como registro de exercícios, conceitos e aplicações de prática.
+Estou continuamente aprimorando meus fundamentos de programação enquanto desenvolvo projetos que me permitem praticar arquitetura de software, APIs, bancos de dados, desenvolvimento frontend e regras de negócio do mundo real.
 
-Meu objetivo é evoluir como desenvolvedor web, aprofundando os fundamentos e construindo projetos com organização, clareza e utilidade.
+> Construindo, aprendendo e evoluindo — um projeto de cada vez.
