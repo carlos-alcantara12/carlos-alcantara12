@@ -16,7 +16,7 @@ Sou estudante de Engenharia da Computação com grande interesse em **desenvolvi
 
 ## Projetos
 
-### 🔧 ServiceFlow — Em andamento
+### 🔧 ServiceFlow — Funcional
 
 Aplicação web para gerenciamento de ordens de serviço, desenvolvida para assistências técnicas e oficinas. O projeto contempla o fluxo desde o recebimento e diagnóstico do equipamento até orçamento, aprovação, execução do serviço, pagamento e entrega.
 
