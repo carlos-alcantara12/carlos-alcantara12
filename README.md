@@ -4,47 +4,51 @@
 
 **Computer Engineering student at Universidade do Estado do Amazonas (UEA) · 2nd semester**
 
-I am a Computer Engineering student with a strong interest in **web development**. I enjoy building practical applications, learning how software systems work, and turning ideas into useful solutions.
+I build web applications that turn real workflows into reliable, understandable software. My projects focus on **full-stack development, API design, business rules, data modeling, authentication, and thoughtful user experiences**. I am especially interested in connecting solid backend engineering with polished, accessible interfaces.
 
-## About me
+## Featured project — MyBooks 📚
 
-- 🎓 Computer Engineering at **UEA — Universidade do Estado do Amazonas**
-- 📚 Currently in my **2nd semester**
-- 💻 Interested in **web development** and software engineering
-- 🚀 Learning by building real-world projects
-- 🧩 Interested in frontend, backend, APIs, databases, and application architecture
+**[Explore MyBooks](https://github.com/carlos-alcantara12/mybooks)** · *Active development*
 
-## Projects
+MyBooks is a **personal and collaborative digital reading library**. It goes beyond cataloging books: readers can organize their collections, track progress page by page, review completed books, discover titles through external book catalogs, and share a library while preserving each participant's individual reading data.
 
-### 🔧 ServiceFlow — In progress
+**What makes it technically interesting:**
+- **Full-stack architecture:** React/Vite frontend and a Django REST Framework API, with JWT authentication and user-scoped data.
+- **Nontrivial business rules:** validated reading progress, completion requirements, review eligibility, duplicate prevention, and role-based operations.
+- **Collaborative workflows:** shared shelves, invitations, an internal mailbox, and approval-based removal requests; shared collections do not erase individual reading progress or reviews.
+- **Book discovery:** Google Books integration with Open Library fallback, plus catalog search, filters, and related-book recommendations.
+- **Visual interaction:** animated welcome experience, interactive bookshelves, book-cover transitions, and refined motion effects using CSS and GSAP.
+- **Engineering foundations:** Django automated tests, GitHub Actions quality checks, Docker images, and documented PostgreSQL/HTTPS production configuration.
 
-A web application for managing service orders, designed for technical assistance businesses and repair shops. The project covers the workflow from equipment intake and diagnosis to budgeting, approval, repair, payment, and delivery.
+**Stack:** Python · Django · Django REST Framework · React · JavaScript · Vite · GSAP · SQL · Docker
 
-**Stack:** Python · Django · Django REST Framework · HTML · CSS · JavaScript
+**Current scope:** The backend and several frontend flows are implemented; some planned reading analytics and timer features are still in development. The project is not presented here as a production-deployed service.
 
-[View repository →](https://github.com/carlos-alcantara12/service_flow)
+## Other projects
 
-### 📚 Mybooks — In progress
+### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow) — Service-order management
 
-A project focused on managing books and related information, currently under development as part of my learning journey in web development and backend development.
+A web application for repair shops and technical assistance operations, covering intake, diagnosis, **versioned estimates and approvals**, repair tracking, payments, delivery, and audit history. Its business rules enforce valid state transitions, financial constraints, and access permissions.
 
-[View repository →](https://github.com/carlos-alcantara12/mybooks)
+**Stack:** Python · Django · Django REST Framework · JavaScript · HTML · CSS
 
-## Tech & interests
+### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight) — Gym operations
 
-**Languages & technologies**  
-Python · C · JavaScript · HTML · CSS · Django · Django REST Framework
+A management system for branches, memberships, attendance, billing records, and reporting. Includes role-based permissions, audit logs, renewal and cancellation rules, and demonstration data for multiple branches.
 
-**Areas of interest**  
-Web Development · Backend Development · APIs · Databases · Software Architecture · Frontend Development
+**Stack:** Python · Django · Django REST Framework · SQL
 
-## Education
+## Technical focus
 
-**Computer Engineering**  
-Universidade do Estado do Amazonas (UEA) · **2nd semester**
+- **Backend:** Python, Django, Django REST Framework, REST APIs, authentication, permissions, business logic
+- **Frontend:** React, JavaScript, HTML, CSS, responsive interfaces, UI animation
+- **Data & delivery:** SQL, SQLite, PostgreSQL configuration, Docker, Git, GitHub Actions, automated testing
+- **Foundations:** C, data modeling, software architecture, validation, documentation
 
-## Currently learning
+## Education & growth
 
-I am continuously improving my programming fundamentals while building projects that allow me to practice software design, APIs, databases, frontend development, and real-world business logic.
+🎓 **Computer Engineering** — Universidade do Estado do Amazonas (UEA), 2nd semester.
 
-> Building, learning, and improving — one project at a time.
+I learn by building, testing, documenting, and iterating on applications with real-world constraints. My goal is to grow as a software engineer who can take responsibility for both the behavior of a system and the experience of the people using it.
+
+> Building useful software, one well-considered decision at a time.
