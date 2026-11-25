@@ -51,13 +51,14 @@ See the repositories pinned at the top of my profile. Open an issue in any of th
 
 <p><b>Languages</b>&nbsp; <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></p>
 
-<p><b>Frontend</b>&nbsp; <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Nextjs-000000?style=flat&logo=nextdotjs&logoColor=white"></p>
+<p><b>Frontend</b>&nbsp; <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"></p>
 
 <p><b>Backend &amp; APIs</b>&nbsp; <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"></p>
 
 <p><b>Databases</b>&nbsp; <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></p>
 
 <p><b>Tools</b>&nbsp; <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"></p>
+
 ---
 
 > Building useful software, one well-considered decision at a time.
