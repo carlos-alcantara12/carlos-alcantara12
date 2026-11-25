@@ -1,64 +1,59 @@
-# Carlos Eduardo M. Alcântara
+<h1 align="center">Carlos Eduardo M. Alcântara</h1>
 
-[English](README.md) · [Português](README.pt-BR.md)
+<p align="center"><b>English</b> · <a href="README.pt-BR.md">Português</a></p>
 
-### Web developer · Python, Django and React · Computer Engineering (UEA)
+<hr>
 
-Manaus, Brazil · I work in web development at a software company and, outside work hours, build complete systems from the database to the interface.
+<h3 align="center">Web Developer · Python, Django and React</h3>
 
-I like turning real workflows into reliable software: **well-defined APIs, business rules validated on the server, carefully modeled data, and interfaces that are a pleasure to use**.
+<p align="center">
+  <a href="https://github.com/carlos-alcantara12/shelf"><img alt="Shelf" src="https://img.shields.io/badge/project-Shelf-98543f?style=flat"></a>
+  <img alt="UEA" src="https://img.shields.io/badge/UEA-Computer_Engineering-1f6feb?style=flat">
+  <img alt="Manaus" src="https://img.shields.io/badge/Manaus-Brazil-555?style=flat">
+</p>
+<!-- Add your LinkedIn badge here: <a href="URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=flat)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+<hr>
 
-## Featured — Shelf 📚
+## About me
 
-**[Shelf](https://github.com/carlos-alcantara12/shelf)** is your digital bookshelf: a web app to organize books, track reading, and discover what to read next. The interface is inspired by a physical wooden shelf.
+I am a web developer at a software company, working with Python, Django, React and SQL to build complete web systems, from the database to the interface.
 
-**The problem:** people who read often scatter their reading life across lists, notes, and memory, and cannot tell whether the habit is sticking or what to read next. Shelf brings it all into one place.
+Outside work, I challenge myself by building whole applications with real business rules. Every project below has tests, documentation and written decisions, because I like to ship software that someone else can understand and maintain.
 
-**What it does today**
-- **Reading happens inside the book:** timer, daily goal, session objectives, and per-book tasks; the progress page shows your evolution by week, month, and year.
-- **Reader profile:** a 3-level questionnaire with an explained result and recommendations that say *why* each book fits you.
-- **Shared libraries:** invitations, an internal mailbox, and approval-based removal requests, without mixing individual progress.
-- **Online catalog:** Google Books with an Open Library fallback; a book is imported only when it joins a shelf.
+Today I spend most of that time on **Shelf**, a digital bookshelf to organize books, track reading and discover what to read next. I handle everything in it: a Django REST Framework API with JWT authentication and user-scoped data, a React frontend, **100+ automated tests**, GitHub Actions CI, Docker images and PostgreSQL with SSL in the production configuration.
 
-**Engineering behind it:** Django REST Framework with JWT authentication and user-scoped data, **100+ automated tests**, GitHub Actions CI (tests, lint, build), Docker images, PostgreSQL with SSL, and API documentation. React 19 and Vite frontend with CSS and GSAP animation and attention to accessibility.
+I also built **ServiceFlow** (service orders, with versioned estimates and approvals) and **GymInsight** (gym management, with role-based permissions and an audit trail). In all of them the rules live on the server: status transitions, money handling and permissions.
 
-> Active development. Not deployed to production yet.
+I am studying **Computer Engineering at the State University of Amazonas (UEA)**, 2nd semester. On weekends I study software architecture, testing and security, and I study English every week. I want to become a senior developer, so I treat every project as practice for engineering decisions.
 
-## More projects
+## Projects
 
-### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow) — service orders
-From equipment intake to delivery: diagnosis, **versioned estimates with customer approval**, repairs, payments, and an audit trail. Business rules control status transitions, money handling, and permissions.
+### 📚 [Shelf](https://github.com/carlos-alcantara12/shelf) · active development
+A digital bookshelf: personal and shared libraries, **timer, goals and tasks inside each book**, evolution by week, month and year, and a **reader profile** that recommends books and explains why.
+`Python · Django · DRF · React · Vite · PostgreSQL · Docker · GitHub Actions`
+
+### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow)
+Service orders for repair shops, from intake to delivery: diagnosis, **versioned estimates with customer approval**, repairs, payments and auditing.
 `Python · Django · DRF · JavaScript`
 
-### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight) — gym management
-Branches, memberships, attendance, billing, and reports, with role-based permissions, audit logs, and renewal and cancellation rules. Ships with a demo network of 5 branches.
+### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight)
+Gym management: branches, memberships, attendance, billing and reports, with role-based permissions and renewal and cancellation rules. Includes a demo network of 5 branches.
 `Python · Django · DRF · SQL`
 
-## What I bring to a team
+## Tech
 
-- **Solid backend:** REST APIs in Django, business rules centralized in services, validation, permissions, and tests.
-- **Careful frontend:** React, responsive interfaces, accessibility, and microinteractions that stay out of the way.
-- **End-to-end delivery:** Git, CI, Docker, and documentation written for whoever arrives next.
-- **Learning by building:** every project above has real rules, tests, and its own README.
-
-## Now
-
-- 💼 Building software at work and consolidating a junior developer foundation.
-- 🎓 Studying Computer Engineering at the **State University of Amazonas (UEA)**, 2nd semester.
-- 🌱 Studying software architecture, testing, and security on weekends, and English every week.
+| Area | What I use |
+|---|---|
+| **Backend** | Python, Django, Django REST Framework, REST APIs, JWT, permissions, business rules |
+| **Frontend** | React, JavaScript, Vite, HTML, CSS, responsive and accessible interfaces, animation (GSAP) |
+| **Data** | SQL, SQLite, PostgreSQL, data modeling |
+| **Delivery** | Git, GitHub Actions, Docker, automated testing, documentation |
+| **Foundations** | C, software architecture, validation, security |
 
 ## Contact
 
 <!-- Add your LinkedIn and professional email here. -->
-See my work in the pinned repositories above and start a conversation through the issues of any of them.
+See the repositories pinned at the top of my profile. Open an issue in any of them to talk about the code.
 
 > Building useful software, one well-considered decision at a time.
