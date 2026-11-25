@@ -2,53 +2,63 @@
 
 [English](README.md) · [Português](README.pt-BR.md)
 
-**Estudante de Engenharia da Computação na Universidade do Estado do Amazonas (UEA) · 2º período**
+### Desenvolvedor web · Python, Django e React · Engenharia da Computação (UEA)
 
-Desenvolvo aplicações web que transformam processos reais em soluções úteis. Meus projetos exploram **desenvolvimento full-stack, APIs, regras de negócio, modelagem de dados, autenticação e experiência do usuário**. Tenho especial interesse em unir uma base sólida de engenharia de software a interfaces cuidadosas e acessíveis.
+Manaus, AM · Atuo com desenvolvimento web em uma empresa de software e crio, nas horas fora do trabalho, sistemas completos do banco de dados à interface.
 
-## Projeto em destaque — MyBooks 📚
+Gosto de transformar processos reais em software confiável: **APIs bem definidas, regras de negócio validadas no servidor, dados modelados com cuidado e interfaces que dão gosto de usar**.
 
-**[Conheça o MyBooks](https://github.com/carlos-alcantara12/mybooks)** · *Em desenvolvimento ativo*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-O MyBooks é uma **biblioteca digital pessoal e colaborativa**. Mais do que catalogar obras, permite organizar coleções, acompanhar a leitura página a página, avaliar livros concluídos, descobrir títulos em catálogos externos e compartilhar uma biblioteca sem perder o progresso individual de cada participante.
+## Em destaque — Shelf 📚
 
-**Destaques técnicos:**
-- **Arquitetura full-stack:** frontend em React/Vite e API com Django REST Framework, autenticação JWT e isolamento dos dados por usuário.
-- **Regras de negócio:** validação do progresso de leitura, critérios de conclusão, condições para avaliações, prevenção de duplicidades e controle de permissões.
-- **Colaboração:** estantes compartilhadas, convites, correio interno e solicitações de remoção com aprovação; o progresso e as avaliações continuam individuais.
-- **Descoberta de livros:** integração com Google Books e alternativa via Open Library, pesquisa, filtros e recomendações de obras semelhantes.
-- **Experiência visual:** boas-vindas animadas, estante interativa, transições de capas e efeitos de movimento com CSS e GSAP.
-- **Fundamentos de engenharia:** testes automatizados no Django, verificações de qualidade com GitHub Actions, imagens Docker e configuração documentada para PostgreSQL e HTTPS em produção.
+**[Shelf](https://github.com/carlos-alcantara12/shelf)** é a sua estante digital: uma aplicação web para organizar livros, acompanhar a leitura e descobrir o que ler a seguir. A interface é inspirada em uma estante física de madeira.
 
-**Tecnologias:** Python · Django · Django REST Framework · React · JavaScript · Vite · GSAP · SQL · Docker
+**O problema:** quem lê com frequência espalha a vida de leitura por vários lugares (listas, anotações, memória) e não sabe se o hábito está pegando nem o que ler depois. O Shelf reúne tudo em um só lugar.
 
-**Estado atual:** o backend e diversos fluxos do frontend já estão implementados. Alguns recursos planejados, como análises de leitura e cronômetro, continuam em desenvolvimento. O projeto ainda não é apresentado como serviço implantado em produção.
+**O que ele faz hoje**
+- **Leitura de verdade dentro do livro:** cronômetro, meta diária, objetivos da sessão e tarefas por livro; a página de progresso mostra a evolução por semana, mês e ano.
+- **Perfil de leitor:** questionário em 3 níveis, com resultado explicado e indicações que dizem *por que* cada livro combina com você.
+- **Bibliotecas compartilhadas:** convites, correio interno e pedidos de remoção com aprovação, sem misturar o progresso individual.
+- **Catálogo online:** Google Books com Open Library como reserva, importação só quando o livro entra na estante.
+
+**Engenharia por trás:** Django REST Framework com autenticação JWT e dados isolados por usuário, **mais de 100 testes automatizados**, CI no GitHub Actions (testes, lint e build), imagens Docker, PostgreSQL com SSL e documentação da API. Frontend em React 19 e Vite, com animações em CSS e GSAP e atenção à acessibilidade.
+
+> Em desenvolvimento ativo. Ainda não está publicado em produção.
 
 ## Outros projetos
 
-### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow) — Gestão de ordens de serviço
+### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow) — ordens de serviço
+Do recebimento do equipamento à entrega: diagnóstico, **orçamentos versionados com aprovação do cliente**, reparo, pagamentos e auditoria. As regras controlam transições de status, valores financeiros e permissões.
+`Python · Django · DRF · JavaScript`
 
-Aplicação web para assistências técnicas e oficinas, abrangendo entrada de equipamentos, diagnóstico, **orçamentos versionados e aprovações**, execução, pagamentos, entrega e histórico de auditoria. As regras de negócio controlam transições de status, operações financeiras e permissões de acesso.
+### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight) — gestão de academias
+Unidades, matrículas, presença, cobranças e relatórios, com permissões por função, trilha de auditoria e regras de renovação e cancelamento. Vem com uma rede de demonstração de 5 unidades.
+`Python · Django · DRF · SQL`
 
-**Tecnologias:** Python · Django · Django REST Framework · JavaScript · HTML · CSS
+## O que eu levo para um time
 
-### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight) — Gestão de academias
+- **Backend sólido:** APIs REST em Django, regras de negócio centralizadas em serviços, validação, permissões e testes.
+- **Frontend cuidadoso:** React, interfaces responsivas, acessibilidade e microinterações que não atrapalham.
+- **Entrega completa:** Git, CI, Docker e documentação escrita para quem chega depois.
+- **Hábito de aprender fazendo:** cada projeto acima tem regras reais, testes e README próprio.
 
-Sistema para administrar unidades, matrículas, planos, presença, registros de cobrança e relatórios. Inclui permissões por função, trilhas de auditoria, regras de renovação e cancelamento e dados demonstrativos de múltiplas unidades.
+## Agora
 
-**Tecnologias:** Python · Django · Django REST Framework · SQL
+- 💼 Desenvolvendo software no trabalho e consolidando a base de desenvolvedor júnior.
+- 🎓 Cursando Engenharia da Computação na **Universidade do Estado do Amazonas (UEA)**, 2º período.
+- 🌱 Estudando arquitetura de software, testes e segurança aos fins de semana, e inglês toda semana.
 
-## Competências e interesses técnicos
+## Contato
 
-- **Backend:** Python, Django, Django REST Framework, APIs REST, autenticação, permissões e regras de negócio
-- **Frontend:** React, JavaScript, HTML, CSS, interfaces responsivas e animações
-- **Dados e entrega:** SQL, SQLite, configuração de PostgreSQL, Docker, Git, GitHub Actions e testes automatizados
-- **Fundamentos:** C, modelagem de dados, arquitetura de software, validação e documentação
-
-## Formação e desenvolvimento
-
-🎓 **Engenharia da Computação** — Universidade do Estado do Amazonas (UEA), 2º período.
-
-Aprendo construindo, testando, documentando e aprimorando aplicações que enfrentam desafios reais. Meu objetivo é evoluir como engenheiro de software, com responsabilidade tanto pelo funcionamento dos sistemas quanto pela experiência de quem os utiliza.
+<!-- Adicione aqui o LinkedIn e o e-mail profissional. -->
+Veja meus projetos nos repositórios fixados acima e abra uma conversa pelas _issues_ de qualquer um deles.
 
 > Construindo software útil, uma decisão bem pensada de cada vez.

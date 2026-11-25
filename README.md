@@ -2,53 +2,63 @@
 
 [English](README.md) · [Português](README.pt-BR.md)
 
-**Computer Engineering student at Universidade do Estado do Amazonas (UEA) · 2nd semester**
+### Web developer · Python, Django and React · Computer Engineering (UEA)
 
-I build web applications that turn real workflows into reliable, understandable software. My projects focus on **full-stack development, API design, business rules, data modeling, authentication, and thoughtful user experiences**. I am especially interested in connecting solid backend engineering with polished, accessible interfaces.
+Manaus, Brazil · I work in web development at a software company and, outside work hours, build complete systems from the database to the interface.
 
-## Featured project — MyBooks 📚
+I like turning real workflows into reliable software: **well-defined APIs, business rules validated on the server, carefully modeled data, and interfaces that are a pleasure to use**.
 
-**[Explore MyBooks](https://github.com/carlos-alcantara12/mybooks)** · *Active development*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-MyBooks is a **personal and collaborative digital reading library**. It goes beyond cataloging books: readers can organize their collections, track progress page by page, review completed books, discover titles through external book catalogs, and share a library while preserving each participant's individual reading data.
+## Featured — Shelf 📚
 
-**What makes it technically interesting:**
-- **Full-stack architecture:** React/Vite frontend and a Django REST Framework API, with JWT authentication and user-scoped data.
-- **Nontrivial business rules:** validated reading progress, completion requirements, review eligibility, duplicate prevention, and role-based operations.
-- **Collaborative workflows:** shared shelves, invitations, an internal mailbox, and approval-based removal requests; shared collections do not erase individual reading progress or reviews.
-- **Book discovery:** Google Books integration with Open Library fallback, plus catalog search, filters, and related-book recommendations.
-- **Visual interaction:** animated welcome experience, interactive bookshelves, book-cover transitions, and refined motion effects using CSS and GSAP.
-- **Engineering foundations:** Django automated tests, GitHub Actions quality checks, Docker images, and documented PostgreSQL/HTTPS production configuration.
+**[Shelf](https://github.com/carlos-alcantara12/shelf)** is your digital bookshelf: a web app to organize books, track reading, and discover what to read next. The interface is inspired by a physical wooden shelf.
 
-**Stack:** Python · Django · Django REST Framework · React · JavaScript · Vite · GSAP · SQL · Docker
+**The problem:** people who read often scatter their reading life across lists, notes, and memory, and cannot tell whether the habit is sticking or what to read next. Shelf brings it all into one place.
 
-**Current scope:** The backend and several frontend flows are implemented; some planned reading analytics and timer features are still in development. The project is not presented here as a production-deployed service.
+**What it does today**
+- **Reading happens inside the book:** timer, daily goal, session objectives, and per-book tasks; the progress page shows your evolution by week, month, and year.
+- **Reader profile:** a 3-level questionnaire with an explained result and recommendations that say *why* each book fits you.
+- **Shared libraries:** invitations, an internal mailbox, and approval-based removal requests, without mixing individual progress.
+- **Online catalog:** Google Books with an Open Library fallback; a book is imported only when it joins a shelf.
 
-## Other projects
+**Engineering behind it:** Django REST Framework with JWT authentication and user-scoped data, **100+ automated tests**, GitHub Actions CI (tests, lint, build), Docker images, PostgreSQL with SSL, and API documentation. React 19 and Vite frontend with CSS and GSAP animation and attention to accessibility.
 
-### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow) — Service-order management
+> Active development. Not deployed to production yet.
 
-A web application for repair shops and technical assistance operations, covering intake, diagnosis, **versioned estimates and approvals**, repair tracking, payments, delivery, and audit history. Its business rules enforce valid state transitions, financial constraints, and access permissions.
+## More projects
 
-**Stack:** Python · Django · Django REST Framework · JavaScript · HTML · CSS
+### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow) — service orders
+From equipment intake to delivery: diagnosis, **versioned estimates with customer approval**, repairs, payments, and an audit trail. Business rules control status transitions, money handling, and permissions.
+`Python · Django · DRF · JavaScript`
 
-### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight) — Gym operations
+### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight) — gym management
+Branches, memberships, attendance, billing, and reports, with role-based permissions, audit logs, and renewal and cancellation rules. Ships with a demo network of 5 branches.
+`Python · Django · DRF · SQL`
 
-A management system for branches, memberships, attendance, billing records, and reporting. Includes role-based permissions, audit logs, renewal and cancellation rules, and demonstration data for multiple branches.
+## What I bring to a team
 
-**Stack:** Python · Django · Django REST Framework · SQL
+- **Solid backend:** REST APIs in Django, business rules centralized in services, validation, permissions, and tests.
+- **Careful frontend:** React, responsive interfaces, accessibility, and microinteractions that stay out of the way.
+- **End-to-end delivery:** Git, CI, Docker, and documentation written for whoever arrives next.
+- **Learning by building:** every project above has real rules, tests, and its own README.
 
-## Technical focus
+## Now
 
-- **Backend:** Python, Django, Django REST Framework, REST APIs, authentication, permissions, business logic
-- **Frontend:** React, JavaScript, HTML, CSS, responsive interfaces, UI animation
-- **Data & delivery:** SQL, SQLite, PostgreSQL configuration, Docker, Git, GitHub Actions, automated testing
-- **Foundations:** C, data modeling, software architecture, validation, documentation
+- 💼 Building software at work and consolidating a junior developer foundation.
+- 🎓 Studying Computer Engineering at the **State University of Amazonas (UEA)**, 2nd semester.
+- 🌱 Studying software architecture, testing, and security on weekends, and English every week.
 
-## Education & growth
+## Contact
 
-🎓 **Computer Engineering** — Universidade do Estado do Amazonas (UEA), 2nd semester.
-
-I learn by building, testing, documenting, and iterating on applications with real-world constraints. My goal is to grow as a software engineer who can take responsibility for both the behavior of a system and the experience of the people using it.
+<!-- Add your LinkedIn and professional email here. -->
+See my work in the pinned repositories above and start a conversation through the issues of any of them.
 
 > Building useful software, one well-considered decision at a time.
