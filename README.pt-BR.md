@@ -53,7 +53,7 @@ Veja os repositórios fixados no topo do perfil. Abra uma _issue_ em qualquer um
 
 <p><b>Frontend</b>&nbsp; <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"></p>
 
-<p><b>Backend e APIs</b>&nbsp; <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"></p>
+<p><b>Backend e APIs</b>&nbsp; <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"> <img alt="Django REST Framework" src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat&logo=django&logoColor=white"></p>
 
 <p><b>Bancos de dados</b>&nbsp; <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></p>
 
