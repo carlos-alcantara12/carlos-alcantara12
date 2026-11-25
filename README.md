@@ -17,15 +17,19 @@
 
 ## About me
 
-I am a web developer at **Grupo Bringel**, where I work on web systems development. In my own projects I use Python, Django, React and SQL to build complete applications, from the database to the interface.
+I am a web developer at **Grupo Bringel**, where I work on web systems development. Outside work, I study and practice by building whole systems, with real business rules, tests and documentation.
 
-Outside work, I challenge myself by building whole systems with real business rules. Every project below has tests, documentation and written decisions, because I like to ship software that someone else can understand and maintain.
+**How each technology fits into my work**
+- **Backend and APIs:** **Python** with **Django** and **Django REST Framework** to build REST APIs, authentication, permissions and business rules.
+- **Frontend:** **React** and **Next.js**, written in **TypeScript** and **JavaScript**, for responsive, accessible interfaces with a good user experience.
+- **Database:** **PostgreSQL** to model and store data with integrity.
+- **Delivery:** **Docker** to package and run the application in any environment and **Git** to version the code and keep the history organized.
 
-Today I spend most of that time on **Shelf**, a digital bookshelf to organize books, track reading and discover what to read next. I handle everything in it: a Django REST Framework API with JWT authentication and user-scoped data, a React frontend, **100+ automated tests**, GitHub Actions CI, Docker images and PostgreSQL with SSL in the production configuration.
+Right now I am working hard on **Shelf**, my digital bookshelf website to organize books, track reading and discover what to read next. In it I handle everything: a Django REST Framework API with JWT authentication and user-scoped data, a React frontend, **100+ automated tests**, GitHub Actions CI, Docker images and PostgreSQL with SSL in the production configuration.
 
-I also built **ServiceFlow** (service orders, with versioned estimates and approvals) and **GymInsight** (gym management, with role-based permissions and an audit trail). Both are paused and kept in private repositories for now; in all of them the rules live on the server: status transitions, money handling and permissions.
+I also built **ServiceFlow** (service orders, with versioned estimates and approvals) and **GymInsight** (gym management, with role-based permissions and an audit trail). Both are paused and kept in private repositories for now.
 
-I am studying **Computer Engineering at the State University of Amazonas (UEA)**, 2nd semester. On weekends I study software architecture, testing and security, and I study English every week. I want to become a senior developer, so I treat every project as practice for engineering decisions.
+I am studying **Computer Engineering at the State University of Amazonas (UEA)**, 2nd semester, and I **study English** every week. On weekends I study software architecture, testing and security. I want to become a senior developer, so I treat every project as practice for engineering decisions.
 
 ## Projects
 

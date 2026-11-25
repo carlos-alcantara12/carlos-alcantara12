@@ -17,15 +17,19 @@
 
 ## Sobre mim
 
-Sou desenvolvedor web no **Grupo Bringel**, onde trabalho no desenvolvimento de sistemas web. Nos meus próprios projetos uso Python, Django, React e SQL para construir aplicações completas, do banco de dados à interface.
+Sou desenvolvedor web no **Grupo Bringel**, onde trabalho no desenvolvimento de sistemas web. Fora do trabalho, estudo e pratico construindo sistemas inteiros, com regras de negócio de verdade, testes e documentação.
 
-Fora do trabalho, eu me desafio construindo sistemas inteiros, com regras de negócio de verdade. Cada projeto abaixo tem testes, documentação e decisões escritas, porque gosto de entregar software que outra pessoa consegue entender e manter.
+**Como cada tecnologia entra no meu trabalho**
+- **Backend e APIs:** **Python** com **Django** e **Django REST Framework** para criar APIs REST, autenticação, permissões e regras de negócio.
+- **Frontend:** **React** e **Next.js**, escritos em **TypeScript** e **JavaScript**, para interfaces responsivas, acessíveis e com boa experiência de uso.
+- **Banco de dados:** **PostgreSQL** para modelar e guardar os dados com integridade.
+- **Entrega:** **Docker** para empacotar e rodar a aplicação em qualquer ambiente e **Git** para versionar o código e manter o histórico organizado.
 
-Hoje dedico a maior parte desse tempo ao **Shelf**, uma estante digital para organizar livros, acompanhar a leitura e descobrir o que ler a seguir. Nele eu cuido de tudo: API em Django REST Framework com autenticação JWT e dados isolados por usuário, frontend em React, **mais de 100 testes automatizados**, CI no GitHub Actions, imagens Docker e PostgreSQL com SSL na configuração de produção.
+Hoje estou trabalhando muito no **Shelf**, o meu site de estante digital para organizar livros, acompanhar a leitura e descobrir o que ler a seguir. Nele cuido de tudo: API em Django REST Framework com autenticação JWT e dados isolados por usuário, frontend em React, **mais de 100 testes automatizados**, CI no GitHub Actions, imagens Docker e PostgreSQL com SSL na configuração de produção.
 
-Também criei o **ServiceFlow** (ordens de serviço, com orçamentos versionados e aprovações) e o **GymInsight** (gestão de academias, com permissões por função e trilha de auditoria). Os dois estão em pausa e com repositórios privados por enquanto; em todos eles as regras ficam no servidor: transições de status, valores financeiros e permissões.
+Também criei o **ServiceFlow** (ordens de serviço, com orçamentos versionados e aprovações) e o **GymInsight** (gestão de academias, com permissões por função e trilha de auditoria). Os dois estão em pausa e com repositórios privados por enquanto.
 
-Curso **Engenharia da Computação na Universidade do Estado do Amazonas (UEA)**, 2º período. Aos fins de semana estudo arquitetura de software, testes e segurança, e toda semana estudo inglês. Quero me tornar um desenvolvedor sênior, e por isso trato cada projeto como treino para decisões de engenharia.
+Curso **Engenharia da Computação na Universidade do Estado do Amazonas (UEA)**, 2º período, e **estudo inglês** toda semana. Aos fins de semana estudo arquitetura de software, testes e segurança. Quero me tornar um desenvolvedor sênior, e por isso trato cada projeto como treino para decisões de engenharia.
 
 ## Projetos
 
