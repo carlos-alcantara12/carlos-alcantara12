@@ -10,7 +10,6 @@
   <a href="https://github.com/carlos-alcantara12/shelf"><img alt="Shelf" src="https://img.shields.io/badge/projeto-Shelf-98543f?style=flat"></a>
   <img alt="UEA" src="https://img.shields.io/badge/UEA-Engenharia_da_Computa%C3%A7%C3%A3o-1f6feb?style=flat">
   <img alt="Grupo Bringel" src="https://img.shields.io/badge/Grupo-Bringel-222?style=flat">
-  <img alt="Manaus" src="https://img.shields.io/badge/Manaus-AM-555?style=flat">
 </p>
 <!-- Adicione aqui o selo do LinkedIn: <a href="URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> -->
 
