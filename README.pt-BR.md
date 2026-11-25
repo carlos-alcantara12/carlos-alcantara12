@@ -6,8 +6,6 @@
 
 <h3 align="center">Desenvolvedor Web @ Grupo Bringel</h3>
 
-<p align="center">Python · Django · React · SQL</p>
-
 <p align="center">
   <a href="https://github.com/carlos-alcantara12/shelf"><img alt="Shelf" src="https://img.shields.io/badge/projeto-Shelf-98543f?style=flat"></a>
   <img alt="UEA" src="https://img.shields.io/badge/UEA-Engenharia_da_Computa%C3%A7%C3%A3o-1f6feb?style=flat">
@@ -44,6 +42,11 @@ Ordens de serviço para assistências técnicas, do recebimento à entrega: diag
 Gestão de academias: unidades, matrículas, presença, cobranças e relatórios, com permissões por função e regras de renovação e cancelamento. Inclui uma rede de demonstração com 5 unidades.
 `Python · Django · DRF · SQL`
 
+## Contato
+
+<!-- Adicione aqui o LinkedIn e o e-mail profissional. -->
+Veja os repositórios fixados no topo do perfil. Abra uma _issue_ em qualquer um deles para conversar sobre o código.
+
 ## Tecnologias
 
 | Área | O que uso |
@@ -53,10 +56,5 @@ Gestão de academias: unidades, matrículas, presença, cobranças e relatórios
 | **Dados** | SQL, SQLite, PostgreSQL, modelagem de dados |
 | **Entrega** | Git, GitHub Actions, Docker, testes automatizados, documentação |
 | **Fundamentos** | C, arquitetura de software, validação, segurança |
-
-## Contato
-
-<!-- Adicione aqui o LinkedIn e o e-mail profissional. -->
-Veja os repositórios fixados no topo do perfil. Abra uma _issue_ em qualquer um deles para conversar sobre o código.
 
 > Construindo software útil, uma decisão bem pensada de cada vez.

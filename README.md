@@ -6,8 +6,6 @@
 
 <h3 align="center">Web Developer @ Grupo Bringel</h3>
 
-<p align="center">Python · Django · React · SQL</p>
-
 <p align="center">
   <a href="https://github.com/carlos-alcantara12/shelf"><img alt="Shelf" src="https://img.shields.io/badge/project-Shelf-98543f?style=flat"></a>
   <img alt="UEA" src="https://img.shields.io/badge/UEA-Computer_Engineering-1f6feb?style=flat">
@@ -44,6 +42,11 @@ Service orders for repair shops, from intake to delivery: diagnosis, **versioned
 Gym management: branches, memberships, attendance, billing and reports, with role-based permissions and renewal and cancellation rules. Includes a demo network of 5 branches.
 `Python · Django · DRF · SQL`
 
+## Contact
+
+<!-- Add your LinkedIn and professional email here. -->
+See the repositories pinned at the top of my profile. Open an issue in any of them to talk about the code.
+
 ## Tech
 
 | Area | What I use |
@@ -53,10 +56,5 @@ Gym management: branches, memberships, attendance, billing and reports, with rol
 | **Data** | SQL, SQLite, PostgreSQL, data modeling |
 | **Delivery** | Git, GitHub Actions, Docker, automated testing, documentation |
 | **Foundations** | C, software architecture, validation, security |
-
-## Contact
-
-<!-- Add your LinkedIn and professional email here. -->
-See the repositories pinned at the top of my profile. Open an issue in any of them to talk about the code.
 
 > Building useful software, one well-considered decision at a time.
