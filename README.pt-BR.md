@@ -58,4 +58,7 @@ Veja os repositórios fixados no topo do perfil. Abra uma _issue_ em qualquer um
 <p><b>Bancos de dados</b>&nbsp; <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"></p>
 
 <p><b>Ferramentas</b>&nbsp; <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"></p>
+
+---
+
 > Construindo software útil, uma decisão bem pensada de cada vez.

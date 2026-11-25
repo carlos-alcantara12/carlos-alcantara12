@@ -58,4 +58,7 @@ See the repositories pinned at the top of my profile. Open an issue in any of th
 <p><b>Databases</b>&nbsp; <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"></p>
 
 <p><b>Tools</b>&nbsp; <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"></p>
+
+---
+
 > Building useful software, one well-considered decision at a time.
