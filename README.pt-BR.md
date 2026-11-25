@@ -4,11 +4,14 @@
 
 <hr>
 
-<h3 align="center">Desenvolvedor Web · Python, Django e React</h3>
+<h3 align="center">Desenvolvedor Web @ Grupo Bringel</h3>
+
+<p align="center">Python · Django · React · SQL</p>
 
 <p align="center">
   <a href="https://github.com/carlos-alcantara12/shelf"><img alt="Shelf" src="https://img.shields.io/badge/projeto-Shelf-98543f?style=flat"></a>
   <img alt="UEA" src="https://img.shields.io/badge/UEA-Engenharia_da_Computa%C3%A7%C3%A3o-1f6feb?style=flat">
+  <img alt="Grupo Bringel" src="https://img.shields.io/badge/Grupo-Bringel-222?style=flat">
   <img alt="Manaus" src="https://img.shields.io/badge/Manaus-AM-555?style=flat">
 </p>
 <!-- Adicione aqui o selo do LinkedIn: <a href="URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> -->
@@ -17,9 +20,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor web e atuo em uma empresa de software, trabalhando com Python, Django, React e SQL para construir sistemas web completos, do banco de dados à interface.
+Sou desenvolvedor web no **Grupo Bringel**, onde trabalho no desenvolvimento de sistemas web. Nos meus próprios projetos uso Python, Django, React e SQL para construir aplicações completas, do banco de dados à interface.
 
-Fora do trabalho, eu me desafio construindo aplicações inteiras, com regras de negócio de verdade. Cada projeto abaixo tem testes, documentação e decisões escritas, porque gosto de entregar software que outra pessoa consegue entender e manter.
+Fora do trabalho, eu me desafio construindo sistemas inteiros, com regras de negócio de verdade. Cada projeto abaixo tem testes, documentação e decisões escritas, porque gosto de entregar software que outra pessoa consegue entender e manter.
 
 Hoje dedico a maior parte desse tempo ao **Shelf**, uma estante digital para organizar livros, acompanhar a leitura e descobrir o que ler a seguir. Nele eu cuido de tudo: API em Django REST Framework com autenticação JWT e dados isolados por usuário, frontend em React, **mais de 100 testes automatizados**, CI no GitHub Actions, imagens Docker e PostgreSQL com SSL na configuração de produção.
 
