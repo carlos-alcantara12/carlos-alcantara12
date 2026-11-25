@@ -24,7 +24,7 @@ Fora do trabalho, eu me desafio construindo sistemas inteiros, com regras de neg
 
 Hoje dedico a maior parte desse tempo ao **Shelf**, uma estante digital para organizar livros, acompanhar a leitura e descobrir o que ler a seguir. Nele eu cuido de tudo: API em Django REST Framework com autenticação JWT e dados isolados por usuário, frontend em React, **mais de 100 testes automatizados**, CI no GitHub Actions, imagens Docker e PostgreSQL com SSL na configuração de produção.
 
-Também criei o **ServiceFlow** (ordens de serviço, com orçamentos versionados e aprovações) e o **GymInsight** (gestão de academias, com permissões por função e trilha de auditoria). Em todos eles as regras ficam no servidor: transições de status, valores financeiros e permissões.
+Também criei o **ServiceFlow** (ordens de serviço, com orçamentos versionados e aprovações) e o **GymInsight** (gestão de academias, com permissões por função e trilha de auditoria). Os dois estão em pausa e com repositórios privados por enquanto; em todos eles as regras ficam no servidor: transições de status, valores financeiros e permissões.
 
 Curso **Engenharia da Computação na Universidade do Estado do Amazonas (UEA)**, 2º período. Aos fins de semana estudo arquitetura de software, testes e segurança, e toda semana estudo inglês. Quero me tornar um desenvolvedor sênior, e por isso trato cada projeto como treino para decisões de engenharia.
 
@@ -33,14 +33,6 @@ Curso **Engenharia da Computação na Universidade do Estado do Amazonas (UEA)**
 ### 📚 [Shelf](https://github.com/carlos-alcantara12/shelf) · em desenvolvimento ativo
 Estante digital: biblioteca pessoal e compartilhada, **cronômetro, metas e tarefas dentro de cada livro**, evolução por semana, mês e ano, e um **perfil de leitor** que indica livros e explica o motivo de cada indicação.
 `Python · Django · DRF · React · Vite · PostgreSQL · Docker · GitHub Actions`
-
-### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow)
-Ordens de serviço para assistências técnicas, do recebimento à entrega: diagnóstico, **orçamentos versionados com aprovação do cliente**, reparo, pagamentos e auditoria.
-`Python · Django · DRF · JavaScript`
-
-### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight)
-Gestão de academias: unidades, matrículas, presença, cobranças e relatórios, com permissões por função e regras de renovação e cancelamento. Inclui uma rede de demonstração com 5 unidades.
-`Python · Django · DRF · SQL`
 
 ## Contato
 

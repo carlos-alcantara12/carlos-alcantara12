@@ -24,7 +24,7 @@ Outside work, I challenge myself by building whole systems with real business ru
 
 Today I spend most of that time on **Shelf**, a digital bookshelf to organize books, track reading and discover what to read next. I handle everything in it: a Django REST Framework API with JWT authentication and user-scoped data, a React frontend, **100+ automated tests**, GitHub Actions CI, Docker images and PostgreSQL with SSL in the production configuration.
 
-I also built **ServiceFlow** (service orders, with versioned estimates and approvals) and **GymInsight** (gym management, with role-based permissions and an audit trail). In all of them the rules live on the server: status transitions, money handling and permissions.
+I also built **ServiceFlow** (service orders, with versioned estimates and approvals) and **GymInsight** (gym management, with role-based permissions and an audit trail). Both are paused and kept in private repositories for now; in all of them the rules live on the server: status transitions, money handling and permissions.
 
 I am studying **Computer Engineering at the State University of Amazonas (UEA)**, 2nd semester. On weekends I study software architecture, testing and security, and I study English every week. I want to become a senior developer, so I treat every project as practice for engineering decisions.
 
@@ -33,14 +33,6 @@ I am studying **Computer Engineering at the State University of Amazonas (UEA)**
 ### 📚 [Shelf](https://github.com/carlos-alcantara12/shelf) · active development
 A digital bookshelf: personal and shared libraries, **timer, goals and tasks inside each book**, evolution by week, month and year, and a **reader profile** that recommends books and explains why.
 `Python · Django · DRF · React · Vite · PostgreSQL · Docker · GitHub Actions`
-
-### 🔧 [ServiceFlow](https://github.com/carlos-alcantara12/service_flow)
-Service orders for repair shops, from intake to delivery: diagnosis, **versioned estimates with customer approval**, repairs, payments and auditing.
-`Python · Django · DRF · JavaScript`
-
-### 🏋️ [GymInsight](https://github.com/carlos-alcantara12/gyminsight)
-Gym management: branches, memberships, attendance, billing and reports, with role-based permissions and renewal and cancellation rules. Includes a demo network of 5 branches.
-`Python · Django · DRF · SQL`
 
 ## Contact
 
